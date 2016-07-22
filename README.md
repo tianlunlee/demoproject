@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # randomproject
+=======
+# The Cool Kids Team
+>>>>>>> 82d81265aeb02dce63735e829436041b5be9c8ff
 super cool
 
 
