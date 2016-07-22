@@ -1,2 +1,2 @@
 # demoproject
-cool
+super cool
