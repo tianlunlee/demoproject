@@ -1,4 +1,4 @@
-# demoproject
+# The Cool Kids Team
 super cool
 
 
